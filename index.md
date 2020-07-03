@@ -1,35 +1,11 @@
 ## Who am I?
 
-I am Pedro, 28 years old and Brazilian. Lived in Korea for 4 years and learned the language. Looking for translation jobs (EN or KR to PT-BR). It can be games, videos, texts and so on. Below there is a list of my previous works. Hope you like it :)
+I am Pedro, 28 years old and Brazilian. Lived in Korea for 4 years and learned the language. Looking for translation jobs (EN or KR to PT-BR). It can be games, videos, texts and so on. Below there is a list of my previous works. Hope you like it!
 
-### Markdown
+### Previous works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Participation in the [Metal Slug Infinity](https://play.google.com/store/apps/details?id=com.ekkorr.msf&hl=pt_BR) translation. 
+2. Market Research for food/grocery products to [ec21rc](http://www.ec21rnc.com/) 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pedrobagatin/pedrobagatin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+email: pedrobagatin@yahoo.com.br
