@@ -18,7 +18,7 @@
         <label for="lname">Your Email</label>
       </div>
       <div class="col-75">
-        <input type="text" id="lname" name="lastname" placeholder="Your email..">
+        <input style="width:100%;" type="text" id="lname" name="lastname" placeholder="Your email..">
       </div>
     </div>
     <div class="row">
