@@ -27,6 +27,7 @@
     <div class="row">
       <button type="submit">Send</button>
     </div>
+    <input type="hidden" name="_next" value="https://www.google.com" />
   </form>
 </div>
   </body>
