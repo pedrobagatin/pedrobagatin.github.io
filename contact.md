@@ -23,11 +23,6 @@
     </div>
     <div class="row">
       <div class="col-25">
-        <label for="country">Country</label>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-25">
         <label for="subject">Subject</label>
       </div>
       <div class="col-75">
