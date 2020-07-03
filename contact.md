@@ -5,33 +5,27 @@
 </head>
 <body>
 <div class="container">
-  <form action="action_page.php">
-    <div class="row">
-      <div class="col-25">
-        <label for="fname">Your Name</label>
-      </div>
-      <div class="col-75">
-        <input style="width:50%;" type="text" id="fname" name="firstname" placeholder="Your name..">
-      </div>
-    </div>
+  <form action="https://formspree.io/xoqkkvbv" method="POST">
+    
     <div class="row">
       <div class="col-25">
         <label for="lname">Your Email</label>
       </div>
       <div class="col-75">
-        <input style="width:50%;" type="text" id="lname" name="lastname" placeholder="Your email..">
+        <input style="width:50%;" type="text" id="lname" name="_replyto" placeholder="Your email..">
       </div>
     </div>
+    
     <div class="row">
       <div class="col-25">
         <label for="subject">Subject</label>
       </div>
       <div class="col-75">
-        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px; width: 100%"></textarea>
+        <textarea id="subject" name="message" placeholder="Write something.." style="height:200px; width: 100%"></textarea>
       </div>
     </div>
     <div class="row">
-      <input type="submit" value="Submit">
+      <button type="submit">Send</button>
     </div>
   </form>
 </div>
