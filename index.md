@@ -8,4 +8,4 @@ I am Pedro, 28 years old and Brazilian. Lived in Korea for 4 years. Looking for 
 2. Market Research for food/grocery products to [ec21rc](http://www.ec21rnc.com/) 
 
 ### Contact
-email: pedrobagatin@yahoo.com.br
+[Please click it here](/contact.html)
