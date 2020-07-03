@@ -23,6 +23,14 @@
     </div>
     <div class="row">
       <div class="col-25">
+        <label for="lname">Your Email</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="lname" name="lastname" placeholder="Your email..">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
         <label for="subject">Subject</label>
       </div>
       <div class="col-75">
