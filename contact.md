@@ -26,7 +26,7 @@
         <label for="subject">Subject</label>
       </div>
       <div class="col-75">
-        <textarea id="subject" name="subject" placeholder="Write something..   " style="height:200px; width: 100%"></textarea>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px; width: 100%"></textarea>
       </div>
     </div>
     <div class="row">
