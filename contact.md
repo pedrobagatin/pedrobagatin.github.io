@@ -2,7 +2,7 @@
 <head>
   <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body style="background-color:yellow;">
 <div class="container">
   <form action="action_page.php">
     <div class="row">
