@@ -52,9 +52,6 @@ input[type=submit] {
   width: 100%;
   margin-top: 6px;
 }
-.row{
-  width: 100%;
-}
 
 /* Clear floats after the columns */
 .row:after {
