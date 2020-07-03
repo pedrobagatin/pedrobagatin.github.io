@@ -6,11 +6,12 @@
     Your Name:
     <input type="text" name="name">
   </label>
-  
+  <p>
   <label>
     Your Email:
     <input type="email" name="_replyto">
   </label>
+  </p>
   
   <p>
   <label>
