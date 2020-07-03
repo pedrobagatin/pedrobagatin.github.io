@@ -1,11 +1,10 @@
-
+## Contact form
 <html>
 <head>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <div class="container">
-  ## Contact form
   <form action="action_page.php">
     <div class="row">
       <div class="col-25">
