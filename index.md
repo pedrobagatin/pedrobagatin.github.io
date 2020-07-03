@@ -5,6 +5,7 @@ I am Pedro, 28 years old and Brazilian. Lived in Korea for 4 years. Looking for 
 ### Previous works
 
 Participation in the [Metal Slug Infinity](https://play.google.com/store/apps/details?id=com.ekkorr.msf&hl=pt_BR) translation.
+
 Market Research for food/grocery products to [ec21rc](http://www.ec21rnc.com/) 
 
 ### Contact
