@@ -9,7 +9,7 @@
     
     <div class="row">
       <div class="col-25">
-        <label for="lname">Your Email</label>
+        <label for="lname">Email</label>
       </div>
       <div class="col-75">
         <input style="width:50%;" type="text" id="lname" name="_replyto" placeholder="Your email..">
