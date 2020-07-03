@@ -53,13 +53,6 @@ input[type=submit] {
   margin-top: 6px;
 }
 
-.input-50{
-  width:50%;
-}
-
-.input-100{
-  width: 100%;
-}
 /* Clear floats after the columns */
 .row:after {
   content: "";
