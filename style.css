@@ -46,6 +46,13 @@ input[type=submit] {
   margin-top: 6px;
 }
 
+/* Floating column for inputs: 75% width */
+.col-100 {
+  float: left;
+  width: 100%;
+  margin-top: 6px;
+}
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
