@@ -9,3 +9,22 @@ I am Pedro, 28 years old and Brazilian. Lived in Korea for 4 years. Looking for 
 
 ### Contact
 email: pedrobagatin@yahoo.com.br
+
+<form
+  action="https://formspree.io/FORM_ID"
+  method="POST"
+>
+  <label>
+    Your Name:
+    <input type="text" name="name">
+  </label>
+  <label>
+    Your Email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Message:
+    <textarea name="message"></textarea>
+  </label>
+  <input type="submit" value="Send">
+</form>
