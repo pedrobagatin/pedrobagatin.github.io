@@ -12,10 +12,12 @@
     <input type="email" name="_replyto">
   </label>
   
+  <p>
   <label>
     Message:
     <textarea name="message"></textarea>
   </label>
+  </p>
   
   
   <input type="submit" value="Send">
