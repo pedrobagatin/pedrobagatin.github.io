@@ -2,10 +2,13 @@
   action="https://formspree.io/FORM_ID"
   method="POST">
   
+  <p>
   <label>
     Your Name:
     <input type="text" name="name">
   </label>
+  </p>
+  
   <p>
   <label>
     Your Email:
