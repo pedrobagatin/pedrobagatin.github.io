@@ -10,7 +10,7 @@
         <label for="fname">Your Name</label>
       </div>
       <div class="col-75">
-        <input class="input-50" type="text" id="fname" name="firstname" placeholder="Your name..">
+        <input style="width:50%;" type="text" id="fname" name="firstname" placeholder="Your name..">
       </div>
     </div>
     <div class="row">
@@ -18,7 +18,7 @@
         <label for="lname">Your Email</label>
       </div>
       <div class="col-75">
-        <input class="input-50" style="width:100%;" type="text" id="lname" name="lastname" placeholder="Your email..">
+        <input style="width:50%;" type="text" id="lname" name="lastname" placeholder="Your email..">
       </div>
     </div>
     <div class="row">
@@ -26,7 +26,7 @@
         <label for="subject">Subject</label>
       </div>
       <div class="col-75">
-        <textarea class="input-100" id="subject" name="subject" placeholder="Write something..   " style="height:200px"></textarea>
+        <textarea style="width:100%;" id="subject" name="subject" placeholder="Write something..   " style="height:200px"></textarea>
       </div>
     </div>
     <div class="row">
