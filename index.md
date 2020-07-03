@@ -7,10 +7,5 @@ I am Pedro, 28 years old and Brazilian. Lived in Korea for 4 years. Looking for 
 1. Participation in the [Metal Slug Infinity](https://play.google.com/store/apps/details?id=com.ekkorr.msf&hl=pt_BR) translation. 
 2. Market Research for food/grocery products to [ec21rc](http://www.ec21rnc.com/) 
 
-### Qualifications
-
-1. Topik 4
-2. Toefl iBT 98, Toeic 945
-
 ### Contact
 email: pedrobagatin@yahoo.com.br
