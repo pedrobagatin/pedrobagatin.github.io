@@ -1,8 +1,6 @@
 ## Who am I?
 
-You can use the [editor on GitHub](https://github.com/pedrobagatin/pedrobagatin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Pedro, 28 years old and Brazilian. Lived in Korea for 4 years and learned the language. Looking for translation jobs (EN or KR to PT-BR). It can be games, videos, texts and so on. Below there is a list of my previous works. Hope you like it :)
 
 ### Markdown
 
