@@ -1,7 +1,9 @@
 <h2> Procuradores condenam ladrão de ovos a passar 18 meses na prisão sendo essa a mesma condenação do maior operador de conteúdo pornográfico infantil da Coreia do Sul. </h2>
 
 Segundo a correspondente internacional da BBC da Coreia do Sul, Laura Bicker, homem de 40 anos morador de study room (goshiwon) foi preso em flagrante ao roubar ovos em Suwon. O homem que estava desempregado e passava por necessidades ao ser pego pela polícia, descobriu-se que havia antecendetes criminais o que resultou em 18 meses de prisão. 
+
 Pena semelhante ao que Son Jeong woo, operador de um dos maiores sites pornográficos infantil “Welcome to Video” foi sentenciado a cumprir após ser indiciado em agosto de 2018.  O site fazia parte Dark Web e cobrava bitcoins para acesso de usuários em diferentes países onde poderiam compartilhar e produzir mais conteúdos. 
+
 Estados Unidos requisitou extradição para que fosse julgado onde é acusado de lavagem de dinheiro entre outas acusações. Caso fosse extraditado, acredita-se que Son sofreria punições mais severas. Entretanto, nessa segunda (06/Jul) após Coreia do Sul negar extradição, encontra-se temporariamente solto.
 
 Fonte:
