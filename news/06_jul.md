@@ -8,7 +8,7 @@ Estados Unidos requisitou extradição para que fosse julgado onde é acusado de
 
 Fonte:
 
-[sophis731@newsis.com](https://news.naver.com/main/ranking/read.nhn?mid=etc&sid1=111&rankingType=popular_day&oid=003&aid=0009953174&date=20200706&type=1&rankingSeq=1&rankingSectionId=104)
+[Newsis: BBC 韓특파원 "아동 성착취범 손정우, 달걀 18개 훔친자와 같은 형량''](https://news.naver.com/main/ranking/read.nhn?mid=etc&sid1=111&rankingType=popular_day&oid=003&aid=0009953174&date=20200706&type=1&rankingSeq=1&rankingSectionId=104)
 
 
 [BBC: South Korea rejects US extradition request over child abuse website](https://www.bbc.com/news/world-asia-53303990)
