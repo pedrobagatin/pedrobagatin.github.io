@@ -11,9 +11,10 @@
 
 <div style="text-align: right"> Publicado em 06 de julho de 2020 </div>
 
-
+<html><body>
 <aside id="sidebar">
           <a href="https://github.com/jasonlong/architect-theme/archive/master.zip" class="button">
-            <small>Download</small>
-            .zip file
+            <small>Link</small>
+            Sobre mim
           </a>
+          </body></html>
