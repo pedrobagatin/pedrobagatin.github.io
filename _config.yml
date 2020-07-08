@@ -1,3 +1,6 @@
 title: Pedro Bagatin
 theme: jekyll-theme-architect
 show_downloads: true
+github:
+  about_url: /about.md
+  contact_url: /contact.md
