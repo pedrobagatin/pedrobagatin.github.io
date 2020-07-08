@@ -10,11 +10,3 @@
 [BBC: South Korea rejects US extradition request over child abuse website](https://www.bbc.com/news/world-asia-53303990)
 
 <div style="text-align: right"> Publicado em 06 de julho de 2020 </div>
-
-<html><body>
-<aside id="sidebar">
-          <a href="https://github.com/jasonlong/architect-theme/archive/master.zip" class="button">
-            <small>Link</small>
-            Sobre mim
-          </a>
-          </body></html>
