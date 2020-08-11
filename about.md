@@ -10,8 +10,8 @@
   Mainly but not exclusively related to the following areas:
   
   1. Cybersecurity for Critical Urban Infrastructure
-  2. Computer Vision
-  3. Bluetooth Low Energy
+  2. Computer Vision - Face and Drowsiness detection
+  3. Hands-free payment methods using Bluetooth Low Energy
 
 ### Contact
 
