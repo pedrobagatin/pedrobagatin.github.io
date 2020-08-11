@@ -1,4 +1,4 @@
-## About me?
+## About me
 
 <div style="text-align: justify">I am currently studying cybersecurity by myself in order to achieve Cisco Certified Network Associate. Before that, I spent 3 years and half at Korea Railroad Research Institute and meanwhile was Robotics and Virtual Engineering graduate student at University of Science and Technology. Thesis was [Trams Drivers Drowsiness Monitoring Systems](https://www.youtube.com/watch?v=lXqtiZpZhCY). Furthermore, published papers in Korean scientific journals about hands-free payment methods in trams.</div>
 
