@@ -1,6 +1,6 @@
 ## About me?
 
-I am currently studying cybersecurity by myself in order to achieve Cisco Certified Network Associate. Before that, I spent 3 years and half at Korea Railroad Research Institute and meanwhile was Robotics and Virtual Engineerin student at University of Science and Technology graduate student. Thesis was [Trams Drivers' Drowsiness Monitoring Systems](https://www.youtube.com/watch?v=lXqtiZpZhCY). Furthermore, published papers in Korean scientific journals (listed in KCI) about hands-free payment methods in trams.
+I am currently studying cybersecurity by myself in order to achieve Cisco Certified Network Associate. Before that, I spent 3 years and half at Korea Railroad Research Institute and meanwhile was Robotics and Virtual Engineerin student at University of Science and Technology graduate student. Thesis was [Trams Drivers' Drowsiness Monitoring Systems](https://www.youtube.com/watch?v=lXqtiZpZhCY). Furthermore, published papers in Korean scientific journals about hands-free payment methods in trams.
 
 ## Published papers:
   1. Support Vector Machine Algorithm in a Bluetooth Low Energy Passenger Detection System - [IEIE Transactions on Smart Processing and Computing, vol. 8, no. 2, April 2019](http://www.ieiespc.org/view_acticles/acticles_d.asp?j=48)
