@@ -20,6 +20,7 @@
 <h2>Languages:</h2>
 <ul>
 <li> English: Upper Intermediate (TOEFL iBT 98, TOEIC 945)</li>
+  <p></p>
 <li> Korean: Intermediate (Test of Proficiency in Korean - Level 4)</li>
 </ul>
 
