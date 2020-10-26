@@ -1,4 +1,4 @@
-<h2> Dois coreanos estão presos na Índia devido ao acidente de vazamento de gás estireno ocorrido em subsidiária da LG Chem. </h2>
+<h2> Pedro Bagatin V. Bermudez </h2>
 
 <div style="text-align: justify"> Electronic Engineer since 2015 with master's degree in Robotics and Virtual Engineering from University of Science and Technology in Korea. I was member of Urban Railroad Research Team in Korea Railroad Research Institute. Wrote papers for hands-free payment method using Bluetooth Low Energy and did projects regarding Tram driver's drowsiness detection using Computer Vision.  </div>
 
