@@ -4,8 +4,7 @@
 
 <h4>Publications:</h4>
 <ul>
-  <li>[Support Vector Machine Algorithm in a Bluetooth Low
-Energy Passenger Detection System](https://drive.google.com/file/d/1ioJYScHew4h9xQZj2ooTczMjXJi86Rgw/view?usp=sharing)</li>
+  <li>[Support Vector Machine Algorithm in a Bluetooth Low Energy Passenger Detection System](https://drive.google.com/file/d/1ioJYScHew4h9xQZj2ooTczMjXJi86Rgw/view?usp=sharing)</li>
   <li></li>
 </ul>
 
