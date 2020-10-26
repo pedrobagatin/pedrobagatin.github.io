@@ -34,9 +34,7 @@
 
 <h2>Programming:</h2>
 <ul>
- <li><b>Languages:</b> python, dart, java, C++</li>
+ <li><b>Languages:</b> python (OpenCV, dlib, Keras), dart, java, C++</li>
  <p></p>
  <li><b>Operating Systems:</b> Linux, ROS</li>
-  <p></p>
- <li><b>Libraries:</b> OpenCV, dlib, Keras</li>
 </ul>
