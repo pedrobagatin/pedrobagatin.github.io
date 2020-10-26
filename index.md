@@ -2,10 +2,12 @@
 
 <div style="text-align: justify"> Electronic Engineer since 2015 with master's degree in Robotics and Virtual Engineering from University of Science and Technology in Korea. I was member of Urban Railroad Research Team in Korea Railroad Research Institute. Wrote papers for hands-free payment method using Bluetooth Low Energy and did projects regarding tram driver's drowsiness detection using Computer Vision.  </div>
 
-<h4>Publications:</h4>
+<h2>Publications:</h2>
 <ul>
   
   <li> P. B. V. Bermudez, K. Jung, H. C. Hwang, J. Kwak, "Support Vector Machine Algorithm in a Bluetooth Low Energy Passenger Detection System", IEIE Transactions on Smart Processing and Computing, Seoul, Volume 8  Number 2, pp-136, doi: 10.5573 (April  30, 2019)</li>
+  
+    <li> K. Jung, P. B. V. Bermudez, H. C. Hwang, Y.G. Oh, J. Kwak, "Passenger's location estimation using Kalman filter for Beacon fare collection in a wireless low floor tram", 2018 International Conference on Electronics, Information, and Communication (ICEIC), Honolulu, HI, USA, doi: 10.23919 (April 05, 2018)</li>
     
    
 </ul>
