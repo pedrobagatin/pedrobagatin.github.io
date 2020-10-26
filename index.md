@@ -3,7 +3,7 @@
 <div style="text-align: justify"> Electronic Engineer since 2015 with master's degree in Robotics and Virtual Engineering from <a href="https://www.ust.ac.kr/eng.do">University of Science and Technology</a>. I was member of Urban Railroad Research Team in <a href="https://www.krri.re.kr/html/en/">Korea Railroad Research Institute</a>. Wrote papers for 
  <a href="https://drive.google.com/file/d/1ioJYScHew4h9xQZj2ooTczMjXJi86Rgw/view?usp=sharing">hands-free payment method using Bluetooth Low Energy </a> and did projects regarding <a href="https://youtu.be/9g0LE1K3_I0">tram driver's drowsiness detection using Computer Vision. </a>
  <p></p>
- Currently I am studying for Cloud Computing certificates (Amazon AWS, Microsoft Azure), and Computer network certificate (CCNA). Furthermore, looking for job opportunities in IT startups or more well-known companies. Able to relocate from January of 2021, currently I am living in Curitiba - Brazil. My main interests are jobs were I can learn more and be aware of new technologies implementation.
+ Currently I am studying for Cloud Computing certificates (<a href="https://aws.amazon.com/">Amazon AWS</a>, <a href="https://azure.microsoft.com/en-us/">Microsoft Azure</a>), and Computer network certificate (<a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html">CCNA</a>). Furthermore, looking for job opportunities in IT startups or more well-known companies. Able to relocate from January of 2021, currently I am living in Curitiba - Brazil. My main interests are jobs were I can learn more and be aware of new technologies implementation.
 
 </div>
  
