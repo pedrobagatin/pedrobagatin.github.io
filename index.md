@@ -37,4 +37,6 @@
  <li><b>Languages:</b> python, dart, java, C++</li>
  <p></p>
  <li><b>Operating Systems:</b> Linux, ROS</li>
+  <p></p>
+ <li><b>Libraries:</b> OpenCV, dlib, Keras</li>
 </ul>
