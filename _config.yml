@@ -2,5 +2,5 @@ title: Pedro Bagatin
 theme: jekyll-theme-architect
 show_downloads: true
 github:
-  about_url: /about.html
+  about_url: /index.html
   contact_url: /contact.html
