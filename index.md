@@ -15,15 +15,11 @@
   <li> P. B. V. Bermudez, K. Jung, H. C. Hwang, J. Kwak, "Support Vector Machine Algorithm in a Bluetooth Low Energy Passenger Detection System", IEIE Transactions on Smart Processing and Computing, Seoul, Volume 8  Number 2, pp-136, doi: 10.5573 (April  30, 2019) </li>    
     <p></p>
     <li> K. Jung, P. B. V. Bermudez, H. C. Hwang, Y.G. Oh, J. Kwak, "Passenger's location estimation using Kalman filter for Beacon fare collection in a wireless low floor tram", 2018 International Conference on Electronics, Information, and Communication (ICEIC), Honolulu, HI, USA, doi: 10.23919 (April 05, 2018) </li>
-
-<h2>Languages:</h2>
-<li> English: Upper Intermediate (TOEFL iBT 98, TOEIC 945)</li>
-<li> Korean: Intermediate (Test of Proficiency in Korean - Level 4)</li>
-
-    
-   
 </ul>
 
-<h4> Fonte: </h4>
+<h2>Languages:</h2>
+<ul>
+<li> English: Upper Intermediate (TOEFL iBT 98, TOEIC 945)</li>
+<li> Korean: Intermediate (Test of Proficiency in Korean - Level 4)</li>
+</ul>
 
-[아시아 경제: "인도 가스사고' LG폴리머스 한국인 직원 2명 현지서 구속 수감''](https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=277&aid=0004714686)
