@@ -27,3 +27,8 @@
   <li> <b> Korean: </b> Intermediate (Test of Proficiency in Korean - Level 4)</li>
 </ul>
 
+<h2>Programming:</h2>
+<ul>
+ <li>Languages: python, dart, java, C++</li>
+ <li>Operating Systems: Linux, ROS</li>
+</ul>
