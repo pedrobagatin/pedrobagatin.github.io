@@ -29,6 +29,6 @@
 
 <h2>Programming:</h2>
 <ul>
- <li>Languages: python, dart, java, C++</li>
- <li>Operating Systems: Linux, ROS</li>
+ <li><b>Languages:</b> python, dart, java, C++</li>
+ <li><b>Operating Systems:</b> Linux, ROS</li>
 </ul>
