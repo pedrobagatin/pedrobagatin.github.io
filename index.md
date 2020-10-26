@@ -4,11 +4,10 @@
 
 <h4>Publications:</h4>
 <ul>
+  
   <li> P. B. V. Bermudez, K. Jung, H. C. Hwang, J. Kwak, "Support Vector Machine Algorithm in a Bluetooth Low Energy Passenger Detection System", IEIE Transactions on Smart Processing and Computing, Seoul, Volume 8  Number 2, pp-136, doi: 10.5573 (April  30, 2019)</li>
     
-    <li>[diasjdio](https://drive.google.com/file/d/1ioJYScHew4h9xQZj2ooTczMjXJi86Rgw/view?usp=sharing)</li>
-    
-  <li></li>
+   
 </ul>
 
 <h4> Fonte: </h4>
