@@ -1,6 +1,7 @@
 <h2> Summary </h2>
 
-<div style="text-align: justify"> Electronic Engineer since 2015 with master's degree in Robotics and Virtual Engineering from <a href="https://www.ust.ac.kr/eng.do">University of Science and Technology</a>. I was member of Urban Railroad Research Team in <a href="https://www.krri.re.kr/html/en/">Korea Railroad Research Institute</a>. Wrote papers for hands-free payment method using Bluetooth Low Energy and did projects regarding tram driver's drowsiness detection using Computer Vision.  </div>
+<div style="text-align: justify"> Electronic Engineer since 2015 with master's degree in Robotics and Virtual Engineering from <a href="https://www.ust.ac.kr/eng.do">University of Science and Technology</a>. I was member of Urban Railroad Research Team in <a href="https://www.krri.re.kr/html/en/">Korea Railroad Research Institute</a>. Wrote papers for 
+ <a href="https://drive.google.com/file/d/1ioJYScHew4h9xQZj2ooTczMjXJi86Rgw/view?usp=sharing">hands-free payment method using Bluetooth Low Energy </a> and did projects regarding <a href="https://youtu.be/9g0LE1K3_I0">tram driver's drowsiness detection using Computer Vision. </a></div>
 
 <h2>Related Projects:</h2>
 
