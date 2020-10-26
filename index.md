@@ -16,7 +16,9 @@
     <p></p>
     <li> K. Jung, P. B. V. Bermudez, H. C. Hwang, Y.G. Oh, J. Kwak, "Passenger's location estimation using Kalman filter for Beacon fare collection in a wireless low floor tram", 2018 International Conference on Electronics, Information, and Communication (ICEIC), Honolulu, HI, USA, doi: 10.23919 (April 05, 2018) </li>
 
-  
+<h2>Languages:</h2>
+<li> English: Upper Intermediate (TOEFL iBT 98, TOEIC 945)</li>
+<li> Korean: Intermediate (Test of Proficiency in Korean - Level 4)</li>
 
     
    
