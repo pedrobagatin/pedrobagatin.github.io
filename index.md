@@ -16,7 +16,7 @@
 <ul>
   <li> P. B. V. Bermudez, K. Jung, H. C. Hwang, J. Kwak,  <a href="https://drive.google.com/file/d/1ioJYScHew4h9xQZj2ooTczMjXJi86Rgw/view?usp=sharing"><b>"Support Vector Machine Algorithm in a Bluetooth Low Energy Passenger Detection System"</b></a>, IEIE Transactions on Smart Processing and Computing, Seoul, Volume 8  Number 2, pp-136 (April  30, 2019) </li>    
     <p></p>
- <li> K. Jung, P. B. V. Bermudez, H. C. Hwang, Y.G. Oh, J. Kwak, <a href="https://ieeexplore.ieee.org/document/8330712"<b>"Passenger's location estimation using Kalman filter for Beacon fare collection in a wireless low floor tram"</b></a>, 2018 International Conference on Electronics, Information, and Communication (ICEIC), Honolulu, HI, USA (April 05, 2018) </li>
+ <li> K. Jung, P. B. V. Bermudez, H. C. Hwang, Y.G. Oh, J. Kwak, <a href="https://ieeexplore.ieee.org/document/8330712"><b>"Passenger's location estimation using Kalman filter for Beacon fare collection in a wireless low floor tram"</b></a>, 2018 International Conference on Electronics, Information, and Communication (ICEIC), Honolulu, HI, USA (April 05, 2018) </li>
 </ul>
 </div>
 
