@@ -27,14 +27,14 @@ In 2020, came back to Brazil, and obtained some IT related certifications, such 
 
 <h2>Languages:</h2>
 <ul>
-  <li> <b>English: </b> Upper Intermediate (TOEFL iBT 98, TOEIC 945)</li>
+  <li> <b>English: </b> Upper Intermediate (TOEFL iBT)</li>
   <p></p>
   <li> <b> Korean: </b> Intermediate (Test of Proficiency in Korean - Level 4)</li>
 </ul>
 
 <h2>Programming:</h2>
 <ul>
- <li><b>Languages:</b> python (OpenCV, dlib, Keras), dart, java, C++</li>
+ <li><b>Languages:</b> python (OpenCV, dlib, Keras)</li>
  <p></p>
- <li><b>Operating Systems:</b> Linux, ROS</li>
+ <li><b>Certifications:</b> AWS (Solutions Architect, Developer, Machine Learning), CCNA</li>
 </ul>
