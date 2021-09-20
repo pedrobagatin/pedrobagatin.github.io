@@ -1,18 +1,18 @@
 <h2> Summary </h2>
 
-<div style="text-align: justify"> Electronic Engineer since 2015 with master's degree in Robotics and Virtual Engineering from <a href="https://www.ust.ac.kr/eng.do">University of Science and Technology</a>. I was member of Urban Railroad Research Team in <a href="https://www.krri.re.kr/html/en/">Korea Railroad Research Institute</a>. Wrote papers for 
- <a href="https://drive.google.com/file/d/1ioJYScHew4h9xQZj2ooTczMjXJi86Rgw/view?usp=sharing">hands-free payment method using Bluetooth Low Energy </a> and did projects regarding <a href="https://youtu.be/9g0LE1K3_I0">tram driver's drowsiness detection using Computer Vision. </a>
- <p></p>
- Currently I am studying for Cloud Computing certificates (<a href="https://aws.amazon.com/">Amazon AWS</a>, <a href="https://azure.microsoft.com/en-us/">Microsoft Azure</a>), and Computer network certificate (<a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html">Cisco - CCNA</a>). Furthermore, looking for job opportunities in IT startups or more well-known companies. Able to relocate from January of 2021, currently I am living in <a href="https://www.google.com/maps/place/Curitiba,+State+of+Paran%C3%A1/@-26.6723858,-50.811332,7.21z/data=!4m5!3m4!1s0x94dce35351cdb3dd:0x6d2f6ba5bacbe809!8m2!3d-25.4289541!4d-49.267137">Curitiba - Brazil</a>. My main interests are jobs in which I can learn more new technologies and implementation.
+<div style="text-align: justify"> Received master’s degree in Robotics and Virtual Engineering at University of Science and Technology (South Korea) and Bachelor’s degree in Industrial Electrical Engineering Emphasis Electronics and Telecommunications at Federal Technological University of Paraná (in Brazil). 
+In 2013, during my undergraduate years, was accepted to study abroad in a Brazilian government sponsored program called Science Without Borders in South Korea at Korea University. Went back to Brazil in 2014 and after graduation, in 2016, came back to South Korea again to study Korean at Sungkyunkwan University for 4 months. Applied to University of Science and Technology and was accepted at Korea Railroad Research Institute campus, in Uiwang-si. During my graduate years, published one domestic paper (KCI indexed) as first author and one for an IEEE international conference as second author. 
+In 2020, came back to Brazil, and obtained some IT related certifications, such as: Cisco Certified Network Associate (CCNA) and AWS ones (Solutions Architect, Developer and, recently, Machine Learning Specialist). For 2022, my goal is to pursue further education in an exciting field such as Artificial Intelligence and learn more about containerized applications (Docker). These two areas (AI and containerized application) can be combined, as it’s possible allow users to execute trained models in a more independently way. 
 
 </div>
  
 
 <h2>Related Projects:</h2>
-
+<div style="text-align: justify">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9g0LE1K3_I0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VLj_hArpkS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>
 
 
 
