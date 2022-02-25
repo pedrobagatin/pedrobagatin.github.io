@@ -2,9 +2,9 @@
 
  <h2>Education:</h2>
  <ul> 
-  <li> Bachelor's Degree: Electrical Engineering (UTFPR)</li>    
+ <li><b>Bachelor's Degree:</b> Electrical Engineering (UTFPR)</li>    
   <p></p>
-  <li> Master's Degree: Robotics Engineering (UST) </li>
+  <li><b>Master's Degree:</b> Robotics Engineering (UST) </li>
 </ul>
 
  <h2>Professional:</h2>
