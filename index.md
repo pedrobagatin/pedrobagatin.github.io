@@ -1,13 +1,14 @@
 <h2> Summary </h2>
 
-<div style="text-align: justify"> 
- <ul> <b>Education: </b>
+ <h2>Education:</h2>
+ <ul> 
   <li> Bachelor's Degree: Electrical Engineering (UTFPR)</li>    
   <p></p>
   <li> Master's Degree: Robotics Engineering (UST) </li>
 </ul>
- 
-<ul> <b>Professional: </b>
+
+ <h2>Professional:</h2>
+<ul> 
   <li> SIDIA (Samsung Institute of the Amazon): ~ 6 months</li>    
   <p></p>
   <li> Korea Railroad Research Institute (UST): 3 and 1/2 years </li>
