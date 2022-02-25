@@ -1,9 +1,17 @@
 <h2> Summary </h2>
 
-<div style="text-align: justify"> Received master’s degree in Robotics and Virtual Engineering at University of Science and Technology (South Korea) and Bachelor’s degree in Industrial Electrical Engineering Emphasis Electronics and Telecommunications at Federal Technological University of Paraná (in Brazil). 
-In 2013, during my undergraduate years, was accepted to study abroad in a Brazilian government sponsored program called Science Without Borders in South Korea at Korea University. Went back to Brazil in 2014 and after graduation, in 2016, came back to South Korea again to study Korean at Sungkyunkwan University for 4 months. Applied to University of Science and Technology and was accepted at Korea Railroad Research Institute campus, in Uiwang-si. During my graduate years, published one domestic paper (KCI indexed) as first author and one for an IEEE international conference as second author. 
-In 2020, came back to Brazil, and obtained some IT related certifications, such as: Cisco Certified Network Associate (CCNA) and AWS (Solutions Architect, Developer and, recently, Machine Learning Specialist). For 2022, my goal is to pursue further education in an exciting field such as Artificial Intelligence and learn more about containerized applications (Docker). These two areas (AI and containerized application) can be combined, as it’s possible allow users to execute trained models in a more independently way. 
-
+<div style="text-align: justify"> 
+ <ul> <b>Education: </b>
+  <li> Bachelor's Degree: Electrical Engineering (UTFPR)</li>    
+  <p></p>
+  <li> Master's Degree: Robotics Engineering (UST) </li>
+</ul>
+ 
+<ul> <b>Professional: </b>
+  <li> SIDIA (Samsung Institute of the Amazon): ~ 6 months</li>    
+  <p></p>
+  <li> Korea Railroad Research Institute (UST): 3 and 1/2 years </li>
+</ul> 
 </div>
  
 
@@ -34,7 +42,7 @@ In 2020, came back to Brazil, and obtained some IT related certifications, such 
 
 <h2>Programming:</h2>
 <ul>
- <li><b>Languages:</b> python (OpenCV, dlib, Keras)</li>
+ <li><b>Languages:</b> C++, python (OpenCV, dlib, Keras)</li>
  <p></p>
  <li><b>Certifications:</b> AWS (Solutions Architect, Developer, Machine Learning), CCNA</li>
 </ul>
