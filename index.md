@@ -1,3 +1,13 @@
+
+ 
+
+<h2>Related Projects:</h2>
+<div style="text-align: justify">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9g0LE1K3_I0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VLj_hArpkS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>
+
  <h2>Education:</h2>
  <ul> 
  <li><b>Bachelor's Degree:</b> Electrical Engineering (UTFPR)</li>    
@@ -11,16 +21,6 @@
   <p></p>
  <li> <b>Korea Railroad Research Institute:</b> 3 and 1/2 years </li>
 </ul> 
-
- 
-
-<h2>Related Projects:</h2>
-<div style="text-align: justify">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9g0LE1K3_I0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VLj_hArpkS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </div>
-
 
 
 <h2>Publications:</h2>
