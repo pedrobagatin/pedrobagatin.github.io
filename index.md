@@ -13,7 +13,7 @@
   <p></p>
  <li> <b>Korea Railroad Research Institute:</b> 3 and 1/2 years </li>
 </ul> 
-</div>
+
  
 
 <h2>Related Projects:</h2>
