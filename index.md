@@ -9,9 +9,9 @@
 
  <h2>Professional:</h2>
 <ul> 
- <li> <b>SIDIA (Samsung Institute of the Amazon):</b> ~ 6 months</li>    
+ <li> <b>Samsung Institute of the Amazon:</b> ~ 6 months</li>    
   <p></p>
- <li> <b>Korea Railroad Research Institute (UST):</b> 3 and 1/2 years </li>
+ <li> <b>Korea Railroad Research Institute:</b> 3 and 1/2 years </li>
 </ul> 
 </div>
  
