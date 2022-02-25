@@ -1,5 +1,3 @@
-<h2> Summary </h2>
-
  <h2>Education:</h2>
  <ul> 
  <li><b>Bachelor's Degree:</b> Electrical Engineering (UTFPR)</li>    
