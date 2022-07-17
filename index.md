@@ -12,12 +12,12 @@
  <ul> 
  <li><b>Bachelor's Degree:</b> Electrical Engineering (UTFPR)</li>    
   <p></p>
-  <li><b>Master's Degree:</b> Robotics Engineering (UST) </li>
+  <li><b>Master's Degree:</b> Robotics Engineering (UST - South Korea) </li>
 </ul>
 
  <h2>Professional:</h2>
 <ul> 
- <li> <b>Samsung Institute of the Amazon (SIDIA):</b> 6 months</li>    
+ <li> <b>Samsung Institute of the Amazon (SIDIA):</b> 10 months</li>    
   <p></p>
  <li> <b>Korea Railroad Research Institute:</b> 3 and 1/2 years </li>
 </ul> 
@@ -41,7 +41,7 @@
 
 <h2>Programming:</h2>
 <ul>
- <li><b>Languages:</b> C++, python (OpenCV, dlib, Keras)</li>
+ <li><b>Languages:</b> C++, Python (OpenCV, dlib, Keras)</li>
  <p></p>
- <li><b>Certifications:</b> AWS (Solutions Architect, Developer, Machine Learning), CCNA</li>
+ <li><b>Certifications:</b> AWS (Solutions Architect, Developer, Machine Learning), CCNA, GitLab Certified Associate</li>
 </ul>
