@@ -36,12 +36,20 @@
 <ul>
   <li> <b>English: </b> Upper Intermediate (TOEFL iBT)</li>
   <p></p>
-  <li> <b> Korean: </b> Intermediate (Test of Proficiency in Korean - Level 4)</li>
+  <li> <b> Korean: </b> Intermediate (TOPIK - Level 4)</li>
 </ul>
 
 <h2>Programming:</h2>
 <ul>
  <li><b>Languages:</b> C++, Python (OpenCV, dlib, Keras)</li>
  <p></p>
- <li><b>Certifications:</b> AWS (Solutions Architect, Developer, Machine Learning), CCNA, GitLab Certified Associate</li>
+ <li><b>Certifications:</b>
+  <ui> 
+   <li> AWS Solutions Architect Associate </li>
+   <li> AWS Developer Associate</li>
+   <li> AWS Machine Learning Specialty </li>
+   <li> CCNA </li>
+   <li> GitLab Certified Associate</li>
+   </ul>
+ </li>
 </ul>
