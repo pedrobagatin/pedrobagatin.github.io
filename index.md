@@ -17,7 +17,7 @@
 
  <h2>Professional:</h2>
 <ul> 
- <li> <b>Samsung Institute of the Amazon (SIDIA):</b> 1 year</li>    
+ <li> <b>Samsung Institute of the Amazon (SIDIA):</b> 2 years</li>    
   <p></p>
  <li> <b>Korea Railroad Research Institute:</b> 3 and 1/2 years </li>
 </ul> 
