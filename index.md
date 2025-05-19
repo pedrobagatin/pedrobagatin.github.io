@@ -8,8 +8,6 @@ After completing my Master's, I returned to Brazil and worked at Sidia Institute
 <p></p>
 In 2024, I began a graduate program under the CI Inovador initiative, which aims to strengthen Brazil’s workforce in microelectronics. I joined the GICS Lab at UFPR, concentrating on radiofrequency circuits (LNA, PA, VCO) and gaining practical experience with industry-standard tools for RF circuit layout design.
 </div>
-</ul> 
- 
 
 <h2>Projects:</h2>
 <div style="text-align: justify">
