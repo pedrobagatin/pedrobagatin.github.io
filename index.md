@@ -1,4 +1,14 @@
-
+<h2>About me:</h2>
+<div style="text-align: justify">
+Electronic Engineer with 3+ years of experience, in object-oriented programming, embedded applications for streaming (TV platforms) and RF electronic systems.
+<p></p>
+International academic background includes a government-funded exchange program (Science Without Borders) at Korea University in 2013, followed by a return to South Korea in 2016 to pursue a Master’s degree in Robotics at UST. During this period, I also gained hands-on experience in the transportation field, particularly with hands-free payment systems, driver-drowsiness detection and autonomous vehicle research at KRRI (Korea Railroad Research Institute).
+<p></p>
+After completing my Master's, I returned to Brazil and worked at Sidia Institute of Science and Technology in Manaus (2021–2023), focusing on software development. There, I deepened my knowledge of C++ by developing and maintaining embedded TV applications for a major Brazilian streaming platform.
+<p></p>
+In 2024, I began a graduate program under the CI Inovador initiative, which aims to strengthen Brazil’s workforce in microelectronics. I joined the GICS Lab at UFPR, concentrating on radiofrequency circuits (LNA, PA, VCO) and gaining practical experience with industry-standard tools for RF circuit layout design.
+</div>
+</ul> 
  
 
 <h2>Projects:</h2>
@@ -15,7 +25,7 @@
   <li><b>Master's Degree:</b> Robotics Engineering (UST - South Korea) </li>
 </ul>
 
- <h2>Professional:</h2>
+<h2>Professional:</h2>
 <ul> 
  <li> <b>Samsung Institute of the Amazon (SIDIA):</b> 2 years</li>    
   <p></p>
