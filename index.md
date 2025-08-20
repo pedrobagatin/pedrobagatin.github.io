@@ -53,6 +53,7 @@ In 2024, I began a graduate program under the CI Inovador initiative, which aims
  <p></p>
  <li><b>Certifications:</b>
   <ul> 
+   <li>Azure Fundamentals (AZ-900) </li>
    <li>AWS Solutions Architect Associate </li>
    <li>AWS Developer Associate </li>
    <li>AWS Machine Learning Specialty </li>
