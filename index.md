@@ -27,7 +27,7 @@ In 2024, I began a graduate program under the CI Inovador initiative, which aims
 <ul> 
  <li> <b>Samsung Institute of the Amazon (SIDIA):</b> 2 years</li>    
   <p></p>
- <li> <b>Korea Railroad Research Institute:</b> 3 and 1/2 years </li>
+ <li> <b>Korea Railroad Research Institute:</b> 3.5 years </li>
 </ul> 
 
 
