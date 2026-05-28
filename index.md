@@ -25,7 +25,7 @@ In 2024, I began a graduate program under the CI Inovador initiative, which aims
 
 <h2>Professional:</h2>
 <ul> 
- <li> <b>CAIXA: <b>8 months</b></li>    
+ <li> <b>CAIXA:</b> 8 months</li>    
  <p></p>
  <li> <b>Samsung Institute of the Amazon (SIDIA):</b> 2 years</li>    
  <p></p>
